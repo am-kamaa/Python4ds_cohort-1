@@ -9,6 +9,7 @@ This page will contain some helpful resources or articles to help you master pyt
 ## Other resources
 
 ## Books
+Data Science at the Command Line by Jeroen Janssens
 
 ## Contents
 * [Rules](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/rules.md)
